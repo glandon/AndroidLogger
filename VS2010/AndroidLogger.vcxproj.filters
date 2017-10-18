@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\libs">
+      <UniqueIdentifier>{382387f3-d10b-4cf5-b99c-5926210c8541}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="..\Source\android.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\Source\image\applog.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\Source\image\rillog.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\Source\image\capture.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\Source\image\cmd.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\Source\image\delete.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\Source\image\detail.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\Source\image\favor.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\Source\image\refresh.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\Source\image\up.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\Source\image\filer.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\Source\image\filer_mask.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\Source\image\pull.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\Source\image\push.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\Source\image\read.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\Source\image\settings.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Source\LogLexer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ThirdParty\Scintilla\lexlib\Accessor.cxx">
+      <Filter>源文件\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ThirdParty\Scintilla\lexlib\CharacterSet.cxx">
+      <Filter>源文件\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ThirdParty\Scintilla\lexlib\LexerBase.cxx">
+      <Filter>源文件\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ThirdParty\Scintilla\lexlib\LexerModule.cxx">
+      <Filter>源文件\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ThirdParty\Scintilla\lexlib\LexerNoExceptions.cxx">
+      <Filter>源文件\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ThirdParty\Scintilla\lexlib\LexerSimple.cxx">
+      <Filter>源文件\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ThirdParty\Scintilla\lexlib\PropSetSimple.cxx">
+      <Filter>源文件\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ThirdParty\Scintilla\lexlib\StyleContext.cxx">
+      <Filter>源文件\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ThirdParty\Scintilla\lexlib\WordList.cxx">
+      <Filter>源文件\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\Plugin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\ImageUtil.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ThirdParty\Windows\Window.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\FilerPanel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\FileObject.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\AndroidCapture.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\AndroidDevice.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\DeviceBase.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\AndroidShell.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\AndroidFiler.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\AndroidMonkey.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\AndroidFile.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\DebugTrace.cpp">
+      <Filter>源文件\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ThirdParty\Windows\PathUtils.cpp">
+      <Filter>源文件\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ThirdParty\Windows\StringUtils.cpp">
+      <Filter>源文件\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\Socket.cpp">
+      <Filter>源文件\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ThirdParty\Windows\DockableWindow.cpp">
+      <Filter>源文件\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ThirdParty\Windows\Toolbar.cpp">
+      <Filter>源文件\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\SettingsDialog.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ThirdParty\Windows\Dialog.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Source\LogLexer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Source\targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Source\DebugTrace.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Source\Plugin.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Source\Socket.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Source\ImageUtil.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Source\resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Source\FilerPanel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Source\AndroidDevice.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Source\DeviceBase.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Source\SettingsDialog.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="..\Source\AndroidLogger.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
