@@ -1,5 +1,7 @@
 
-# AndroidLogger
+# AndroidLogger 
+![latest](https://img.shields.io/github/v/release/glandon/AndroidLogger)
+![downloads](https://img.shields.io/github/downloads/glandon/AndroidLogger/latest/total)
 
 ## Introduction
 AndroidLogger initially designed as an logcat lexer plugin of Notepad++, has evolved into a comprehensive toolkit with magic functionalities.
