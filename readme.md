@@ -114,6 +114,12 @@ Supports capture screenshot and logs with filters.
 4. Support capture device screenshot, now just save at d:\device.bmp
 
 # 5. Update History
+v1.4.3.5
+> Optimize adb cmdout faster and fix \r\r\n issue.
+1. code refector
+2. read adb shell cmd out more effience!
+3. fix \r\r\n issue
+
 v1.4.3.4
 > New icons to adapte fluent theme! Support [cmdout] with charset option.
 > You can run python and cmds, and capture out to NPP. 
