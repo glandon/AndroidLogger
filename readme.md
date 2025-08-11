@@ -2,6 +2,7 @@
 # AndroidLogger 
 ![latest](https://img.shields.io/github/v/release/glandon/AndroidLogger)
 ![downloads](https://img.shields.io/github/downloads/glandon/AndroidLogger/latest/total)
+![total](https://img.shields.io/github/downloads/glandon/AndroidLogger/total)
 
 ## Introduction
 AndroidLogger initially designed as an logcat lexer plugin of Notepad++, has evolved into a comprehensive toolkit with magic functionalities.
@@ -161,4 +162,5 @@ v1.4.2.8
 ### 1.1.0
 1) adb cmd will not timeout!
 2) thread concurrent optimization
+
 
