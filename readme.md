@@ -117,6 +117,11 @@ Supports capture screenshot and logs with filters.
 4. Support capture device screenshot, now just save at d:\device.bmp
 
 # 5. Update History
+v1.4.3.6
+1. Fix \r\r\n issue
+2. More faster to get the out of adb cmd 
+3. Fix adb port detect failed issue
+
 v1.4.3.5
 > Optimize adb cmdout faster and fix \r\r\n issue.
 1. code refector
@@ -162,5 +167,6 @@ v1.4.2.8
 ### 1.1.0
 1) adb cmd will not timeout!
 2) thread concurrent optimization
+
 
 
