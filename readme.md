@@ -117,6 +117,12 @@ Supports capture screenshot and logs with filters.
 4. Support capture device screenshot, now just save at d:\device.bmp
 
 # 5. Update History
+v1.4.3.7
+For memory analyse, add a special case for showmap.
+1) if showmap pid, go legacy
+2) else if showmap pkg, will do the special process
+--  fastcmd and adbcmd
+
 v1.4.3.6
 1. Fix \r\r\n issue
 2. More faster to get the out of adb cmd 
@@ -167,6 +173,7 @@ v1.4.2.8
 ### 1.1.0
 1) adb cmd will not timeout!
 2) thread concurrent optimization
+
 
 
 
