@@ -117,6 +117,9 @@ Supports capture screenshot and logs with filters.
 4. Support capture device screenshot, now just save at d:\device.bmp
 
 # 5. Update History
+v1.4.4.0
+1. fix some connect issue
+
 v1.4.3.9
 1. Support adb -s and then use as default. 
 
@@ -180,6 +183,7 @@ v1.4.2.8
 ### 1.1.0
 1) adb cmd will not timeout!
 2) thread concurrent optimization
+
 
 
 
