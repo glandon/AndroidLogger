@@ -110,10 +110,8 @@ Supports capture screenshot and logs with filters.
 1. Support lexer fot APP & RADIO Log, and cutomizable
 2. Support catching log on device: APP, RADIO
 3. Support Shell CMD on device. 
-->(1) The shell cmd line must start with '>' and at the top of doc.
-->(2) Start with '#' is comment
-->(3) Empty line is permitted
-->(4) Freely use logcat, top & grep, tcpdump
+->(1) Select it then click cmd icon to run any adb shell cmd!
+->(2) Quickly use logcat, top & grep, tcpdump
 4. Support capture device screenshot, now just save at d:\device.bmp
 
 # 5. Update History
