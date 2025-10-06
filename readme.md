@@ -13,6 +13,9 @@ With the plugin, you can quickly run cmd and get the output to NPP, and you can 
 
 NOTE: It is recommended that you upgrade to a newer Npp version, taking 7.x as an example, the plugin toolbar is not displayed.
 
+Conveniently execute adb shell commands！
+![runadb](help/runadb.gif)
+
 # Usage
 ## 1. Quick Search
 ![quicksearch](help/quicksearch.gif)
@@ -181,6 +184,7 @@ v1.4.2.8
 ### 1.1.0
 1) adb cmd will not timeout!
 2) thread concurrent optimization
+
 
 
 
